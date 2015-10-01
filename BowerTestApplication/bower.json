@@ -1,0 +1,13 @@
+{
+  "name": "BowerTestApplication",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "jQuery#~2.1.4"
+  }
+}
