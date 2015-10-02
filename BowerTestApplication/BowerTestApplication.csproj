@@ -95,13 +95,8 @@
     <None Include="Properties\PublishProfiles\otp-bower-test %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\otp-bower-test - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\otp-bower-test - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\otp-bower-test.pubxml" />
-    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Scripts\jquery-1.10.2.js" />
-    <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Web.config" />
-    <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
